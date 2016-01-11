@@ -7,13 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		89AE2F821C3A1D0B0096A58C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AE2F811C3A1D0B0096A58C /* AppDelegate.swift */; };
-		89AE2F841C3A1D0B0096A58C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AE2F831C3A1D0B0096A58C /* ViewController.swift */; };
-		89AE2F871C3A1D0B0096A58C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89AE2F851C3A1D0B0096A58C /* Main.storyboard */; };
-		89AE2F891C3A1D0B0096A58C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89AE2F881C3A1D0B0096A58C /* Assets.xcassets */; };
-		89AE2F8C1C3A1D0B0096A58C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89AE2F8A1C3A1D0B0096A58C /* LaunchScreen.storyboard */; };
-		89AE2F971C3A1D0B0096A58C /* week4_miniRetoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AE2F961C3A1D0B0096A58C /* week4_miniRetoTests.swift */; };
-		89AE2FA21C3A1D0B0096A58C /* week4_miniRetoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AE2FA11C3A1D0B0096A58C /* week4_miniRetoUITests.swift */; };
+		89AE2FB11C3A1E910096A58C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89AE2FB01C3A1E910096A58C /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,18 +29,10 @@
 
 /* Begin PBXFileReference section */
 		89AE2F7E1C3A1D0B0096A58C /* week4_miniReto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = week4_miniReto.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		89AE2F811C3A1D0B0096A58C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		89AE2F831C3A1D0B0096A58C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		89AE2F861C3A1D0B0096A58C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		89AE2F881C3A1D0B0096A58C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		89AE2F8B1C3A1D0B0096A58C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89AE2F8D1C3A1D0B0096A58C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89AE2F921C3A1D0B0096A58C /* week4_miniRetoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = week4_miniRetoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		89AE2F961C3A1D0B0096A58C /* week4_miniRetoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = week4_miniRetoTests.swift; sourceTree = "<group>"; };
-		89AE2F981C3A1D0B0096A58C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89AE2F9D1C3A1D0B0096A58C /* week4_miniRetoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = week4_miniRetoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		89AE2FA11C3A1D0B0096A58C /* week4_miniRetoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = week4_miniRetoUITests.swift; sourceTree = "<group>"; };
-		89AE2FA31C3A1D0B0096A58C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89AE2FAF1C3A1DFE0096A58C /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = miniReto.playground; sourceTree = "<group>"; };
+		89AE2FB01C3A1E910096A58C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,9 +63,8 @@
 		89AE2F751C3A1D0B0096A58C = {
 			isa = PBXGroup;
 			children = (
+				89AE2FB01C3A1E910096A58C /* Default-568h@2x.png */,
 				89AE2F801C3A1D0B0096A58C /* week4_miniReto */,
-				89AE2F951C3A1D0B0096A58C /* week4_miniRetoTests */,
-				89AE2FA01C3A1D0B0096A58C /* week4_miniRetoUITests */,
 				89AE2F7F1C3A1D0B0096A58C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -97,32 +82,9 @@
 		89AE2F801C3A1D0B0096A58C /* week4_miniReto */ = {
 			isa = PBXGroup;
 			children = (
-				89AE2F811C3A1D0B0096A58C /* AppDelegate.swift */,
-				89AE2F831C3A1D0B0096A58C /* ViewController.swift */,
-				89AE2F851C3A1D0B0096A58C /* Main.storyboard */,
-				89AE2F881C3A1D0B0096A58C /* Assets.xcassets */,
-				89AE2F8A1C3A1D0B0096A58C /* LaunchScreen.storyboard */,
-				89AE2F8D1C3A1D0B0096A58C /* Info.plist */,
+				89AE2FAF1C3A1DFE0096A58C /* miniReto.playground */,
 			);
 			path = week4_miniReto;
-			sourceTree = "<group>";
-		};
-		89AE2F951C3A1D0B0096A58C /* week4_miniRetoTests */ = {
-			isa = PBXGroup;
-			children = (
-				89AE2F961C3A1D0B0096A58C /* week4_miniRetoTests.swift */,
-				89AE2F981C3A1D0B0096A58C /* Info.plist */,
-			);
-			path = week4_miniRetoTests;
-			sourceTree = "<group>";
-		};
-		89AE2FA01C3A1D0B0096A58C /* week4_miniRetoUITests */ = {
-			isa = PBXGroup;
-			children = (
-				89AE2FA11C3A1D0B0096A58C /* week4_miniRetoUITests.swift */,
-				89AE2FA31C3A1D0B0096A58C /* Info.plist */,
-			);
-			path = week4_miniRetoUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +191,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89AE2F8C1C3A1D0B0096A58C /* LaunchScreen.storyboard in Resources */,
-				89AE2F891C3A1D0B0096A58C /* Assets.xcassets in Resources */,
-				89AE2F871C3A1D0B0096A58C /* Main.storyboard in Resources */,
+				89AE2FB11C3A1E910096A58C /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +216,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89AE2F841C3A1D0B0096A58C /* ViewController.swift in Sources */,
-				89AE2F821C3A1D0B0096A58C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +223,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89AE2F971C3A1D0B0096A58C /* week4_miniRetoTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +230,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89AE2FA21C3A1D0B0096A58C /* week4_miniRetoUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,25 +247,6 @@
 			targetProxy = 89AE2F9E1C3A1D0B0096A58C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		89AE2F851C3A1D0B0096A58C /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				89AE2F861C3A1D0B0096A58C /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		89AE2F8A1C3A1D0B0096A58C /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				89AE2F8B1C3A1D0B0096A58C /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		89AE2FA41C3A1D0B0096A58C /* Debug */ = {
@@ -396,7 +333,6 @@
 		89AE2FA71C3A1D0B0096A58C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = week4_miniReto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ryanberrio.week4-miniReto";
@@ -407,7 +343,6 @@
 		89AE2FA81C3A1D0B0096A58C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = week4_miniReto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ryanberrio.week4-miniReto";
@@ -482,6 +417,7 @@
 				89AE2FA81C3A1D0B0096A58C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		89AE2FA91C3A1D0B0096A58C /* Build configuration list for PBXNativeTarget "week4_miniRetoTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +426,7 @@
 				89AE2FAB1C3A1D0B0096A58C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		89AE2FAC1C3A1D0B0096A58C /* Build configuration list for PBXNativeTarget "week4_miniRetoUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +435,7 @@
 				89AE2FAE1C3A1D0B0096A58C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
